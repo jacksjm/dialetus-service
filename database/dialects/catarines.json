@@ -118,5 +118,30 @@
         "dialect": "Conduto",
         "meanings": ["Prato principal da refeição", "O que acompanha o pirão ou o café"],
         "examples": ["Oie rapaze, hoje o conduto tá pouco.Por isso cheira o conduto e come o pirão."]
+    },
+    {
+        "dialect": "Camaçada de pau",
+        "meanings": ["Surra"],
+        "examples": ["Vou te dar uma camaçada de pau.", "Pode correr pois tu vais levar uma camaçada de pau."]
+    },
+    {
+        "dialect": "Em dois toque",
+        "meanings": ["Rapidamente", "Execução rápida"],
+        "examples": ["Vou ali e já volto, em dois toque."]
+    },
+    {
+        "dialect": "Tu",
+        "meanings": ["Você"],
+        "examples": ["Tu podias me fazer esse favor", "Tu sabes aquele caso?"]
+    },
+    {
+        "dialect": "Tanso",
+        "meanings": ["Burro", "Sonso"],
+        "examples": ["Tu deixou o arroz queimar, seu tanso!"]
+    },
+    {
+        "dialect": "Segue reto toda vida",
+        "meanings": ["Direção"],
+        "examples": ["Depois da primeira a direita, tu segue reto toda vida."]
     }
 ]
